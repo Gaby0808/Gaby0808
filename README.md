@@ -6,7 +6,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<img src="https://media.tenor.com/6OvHXO8Ew1sAAAAM/hermione-granger.gif" alt="Hermione Granger GIF"/>![image](https://github.com/user-attachments/assets/3377ea3b-5f5d-458b-bd3c-8143c62b24e2)
+<img src="https://media.tenor.com/6OvHXO8Ew1sAAAAM/hermione-granger.gif" alt="Hermione Granger GIF"/>!
 
 <!---
 Gaby0808/Gaby0808 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
